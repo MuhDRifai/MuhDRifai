@@ -24,8 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-=======
-<a href="https://www.linkedin.com/in/muhrifai23/">
-<img align="left" alt=" muhrifai23 | LinkedIn" width= "22px" src= "./linkedin-svgrepo-com.svg" /></a>
->>>>>>> b69b8115c906e43a93adac138df41d12068d2c68
+
