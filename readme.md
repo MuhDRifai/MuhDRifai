@@ -1,32 +1,19 @@
-<a href="https://github.com/MuhDRifai/MuhDRifai" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/MuhDRifai/MuhDRifai?label=profile%20updated&style=flat-square"></a>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MuhDRifai.MuhDRifai)
-# HELLO I AM MUHAMAD RIFAI  <a href="https://github.com/MuhDRifai?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-## I AM FULLSTACK WEB DEVELOPER
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <samp>Hello there. I'm <a href="https://twitter.com/MuhRifai23" target="_blank">Muhamad Rifai</a>.<br> I'm a Full Stack Web Developer.<br><br>#javascript, #reactjs, #nextjs, #nodejs</samp>
+  <br>
+  <br>
+  <br>
+  <br>
+  <img src="https://thumbs.gfycat.com/SpeedyMealyCornsnake-size_restricted.gif" width="350" />
+</p>
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-![Hero Image](MUHAMADRIFAI.gif)
-<br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhrifai23/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/donquixote_rosinante23)
-<a href="https://github.com/alwinw" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/@MuhDRifai-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-
-<br>
-
-Currently focused on learning in JavaScript, but exposed in all aspects of web development including front and back end, version management with git. I do programming fulltime, I always keep to learn deep into the fundamentals of the languages and moving forward into web development with the latest technologies required to work with it.
-
-### my favorite tools
-
-* [HTML & CSS](https://html.com/) - the fundamental tool for building the website
-* [JavaScript](https://www.javascript.com/) - the magic tool for the dynamic web
-* [BOOTSTRAP](https://getbootstrap.com/) - the amazing tool for building layouts
-* [NODE.JS & EXPRESS.JS](https://nodejs.org/en/) - the amazing tool for backend building
-
-
-![MuhDRifai Github Stats](https://github-readme-stats.vercel.app/api?username=MuhDRifai&count_private=true&show_icons=true&include_all_commits=true) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhDRifai)](https://github.com/MuhDRifai/github-readme-stats)
+<br/>
+<p align="center">
+  <a href="https://github.com/MuhDRifai" >
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhDRifai&theme=vue&show_icons=true" />
+  </a>
+ </p>
+<br/>
