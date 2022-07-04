@@ -17,3 +17,10 @@
   </a>
  </p>
 <br/>
+
+<br>
+<figure>
+<embed src="https://wakatime.com/share/@3ff247ff-41b6-4bac-a00f-4e53ba0df7b3/0fb4de9a-8775-473a-a9da-dde40c5af207.svg">
+</embed>
+</figure>
+<br/>
