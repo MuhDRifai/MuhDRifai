@@ -1,26 +1,39 @@
-<p align="center">
-  <br>
-  <br>
-  <br>
-  <samp>Hello there. I'm <a href="https://twitter.com/MuhRifai23" target="_blank">Muhamad Rifai</a>.<br> I'm a Full Stack Web Developer.<br><br>#javascript, #reactjs, #nextjs, #nodejs</samp>
-  <br>
-  <br>
-  <br>
-  <br>
-  <img src="https://thumbs.gfycat.com/SpeedyMealyCornsnake-size_restricted.gif" width="350" />
+<p><img src="https://visitcount.itsvg.in/api?id=MuhDRifai&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+
+# Hi there 👋, My name is Muhamad Rifai
+
+Recent Graduate Developer looking to take the first step into a new career.
+
+## 💫 Little Bit More About Me
+
+INTERESTS:
+<p> 🤩 Improving my coding skills to become a full stack developer 🤩 </p>
+<p> 💻 New Technologies </p>
+<p> 💸 High interest in the financial markets and global economy. </p>
+<p> 📚 Interested in world history</p>
+
+
+ 
+
+## 💻 Skills
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
-<br/>
-<p align="center">
-  <a href="https://github.com/MuhDRifai" >
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhDRifai&theme=vue&show_icons=true" />
-  </a>
- </p>
-<br/>
+## 👥 Connect With Me
 
-<br>
-<figure>
-<embed src="https://wakatime.com/share/@3ff247ff-41b6-4bac-a00f-4e53ba0df7b3/0fb4de9a-8775-473a-a9da-dde40c5af207.svg">
-</embed>
-</figure>
-<br/>
+<p>
+  <a href="https://www.linkedin.com/in/muhrifai23/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" style="margin-bottom: 4px;" height="30px">
+  </a>
+</p>
+<p>
+<a href="https://www.instagram.com/donquixote_rosinante23/?hl=id"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+</p>
