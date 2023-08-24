@@ -31,7 +31,7 @@ INTERESTS:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/muhrifai23/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/donquixote_rosinante23/?hl=id)
-[![Discord](https://img.shields.io/badge/Discord-MuhDRifai-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/MuhDRifai)
+[![Discord](https://img.shields.io/badge/Discord-Muh.D.Rifai-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/Muh.D.Rifai)
 
 ## 📬 Contact Me
 
