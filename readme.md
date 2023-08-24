@@ -29,11 +29,10 @@ INTERESTS:
 
 ## 👥 Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/muhrifai23/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  </a>
-</p>
-<p>
-<a href="https://www.instagram.com/donquixote_rosinante23/?hl=id"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/muhrifai23/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/donquixote_rosinante23/?hl=id)
+[![Discord](https://img.shields.io/badge/Discord-MuhDRifai-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/MuhDRifai)
+
+## 📬 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-muh.d.rifai23%40gmail.com-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:muh.d.rifai23@gmail.com)
